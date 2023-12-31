@@ -2,25 +2,25 @@
 
 **Description:**
 
-**##Purpose:##** Generate QR codes for provided text or URLs easily.
+**Purpose:** Generate QR codes for provided text or URLs easily.
 
-Technology: HTML, CSS, JavaScript.
+**Technology:** HTML, CSS, JavaScript.
 
-API Integration: Utilizes the QR Server API for code generation.
+**API Integration:** Utilizes the QR Server API for code generation.
 
-Responsive Design: Ensures a seamless user experience on various devices.
+**Responsive Design:** Ensures a seamless user experience on various devices.
 
 **Key Features:**
 
-User Input: Enter text or URLs for QR code generation.
+**User Input:** Enter text or URLs for QR code generation.
 
-Error Handling: Provides visual feedback for empty input.
+**Error Handling:** Provides visual feedback for empty input.
 
-Dynamic Rendering: Displays generated QR code instantly.
+**Dynamic Rendering:** Displays generated QR code instantly.
 
-Interactive UI: Stylish and user-friendly interface.
+**Interactive UI:** Stylish and user-friendly interface.
 
-Responsive: Ensures a consistent layout across different screen sizes.
+**Responsive:** Ensures a consistent layout across different screen sizes.
 
 **Usage:**
 
