@@ -2,7 +2,7 @@
 
 **Description:**
 
-Purpose: Generate QR codes for provided text or URLs easily.
+**##Purpose:##** Generate QR codes for provided text or URLs easily.
 
 Technology: HTML, CSS, JavaScript.
 
