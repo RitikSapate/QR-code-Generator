@@ -1,6 +1,6 @@
 # QR-code-Generator
 
-##Description:
+**Description:**
 
 Purpose: Generate QR codes for provided text or URLs easily.
 
