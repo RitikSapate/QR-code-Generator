@@ -33,3 +33,5 @@ The generated QR code is displayed below the button.
 **How to Run:**
 
 Simply open the HTML file in a web browser to use the QR-Generator.
+
+**Live Demo:** https://qr-code-generator-by-ritik.netlify.app/
